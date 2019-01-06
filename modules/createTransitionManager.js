@@ -37,7 +37,7 @@ const createTransitionManager = () => {
         }
       } else {
         // Return false from a transition hook to cancel the transition.
-        callback(false)
+        callback(Boolean(result))
       }
     } else {
       callback(true)
