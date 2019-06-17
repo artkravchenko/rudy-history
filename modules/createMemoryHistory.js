@@ -176,7 +176,9 @@ const createMemoryHistory = (props = {}) => {
     goForward,
     canGo,
     block,
-    listen
+    listen,
+
+    _transitionManager: transitionManager,
   }
 
   return history

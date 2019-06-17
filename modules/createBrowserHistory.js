@@ -303,7 +303,9 @@ const createBrowserHistory = (props = {}) => {
     goBack,
     goForward,
     block,
-    listen
+    listen,
+
+    _transitionManager: transitionManager,
   }
 
   return history
