@@ -1,8 +1,8 @@
 {
-  "name": "rudy-history",
+  "name": "@artkravchenko/rudy-history",
   "version": "1.0.0",
   "description": "Fork of the history package for Rudy",
-  "repository": "faceyspacey/history",
+  "repository": "artkravchenko/rudy-history",
   "license": "MIT",
   "author": "Michael Jackson",
   "files": [
