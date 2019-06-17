@@ -1,6 +1,6 @@
 {
   "name": "@artkravchenko/rudy-history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of the history package for Rudy",
   "repository": "artkravchenko/rudy-history",
   "license": "MIT",
